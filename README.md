@@ -6,7 +6,6 @@
    [![LOL](https://img.shields.io/badge/Game-Dead%20by%20Daylight-445fa5.svg?style=plastic)](https://deadbydaylight.com)
    [![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    [![x64](https://img.shields.io/badge/Arch-x64-red.svg?style=plastic)](https://en.wikipedia.org/wiki/X86-64)
-   [![License](https://img.shields.io/github/license/Fortnite-Burger/DeadByDaylight-Unlocker.svg?style=plastic)](LICENSE)
    [![Issues](https://img.shields.io/github/issues/Fortnite-Burger/DeadByDaylight-Unlocker-v2.svg?style=plastic)](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker-v2/issues)
    [![Total downloads](https://img.shields.io/github/downloads/Fortnite-Burger/DeadByDaylight-Unlocker-v2/total.svg?label=Downloads&logo=github&cacheSeconds=600&style=plastic)](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker-v2/releases/latest)
    [![Discord](https://img.shields.io/discord/1148144263792701471.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600&style=plastic)](https://discord.gg/ySsrsYdGwx)
