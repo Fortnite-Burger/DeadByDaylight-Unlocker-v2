@@ -27,7 +27,8 @@
 </div>
 
 # Installing
-To install the program, head over to [releases](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker-v2/releases/latest) and download the ZIP file from the latest release. Simply unpack this on your computer and run the program. `DO NOT` run it from the ZIP file.
+To install the program, head over to [our website](https://fortniteburger.vip) and grab a custom build from the dashboard. `DO NOT` run it from the ZIP file.
+If you need help our discord is available for support!
 
 # For Steam users
 To use any unlockers on Steam, an SSL Pinning Bypass is required. This is because Dead by Daylight has enhanced security against MITM attacks on their Steam servers (only steam for some weird reason). We provide an SSL Pinning Bypass [here](https://fortniteburger.vip/store?type=ssl)
